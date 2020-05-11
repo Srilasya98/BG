@@ -1,0 +1,32 @@
+body{
+background-color:#f9ed69;
+ }
+ h1{
+   color: #e23e57
+ }
+ h3{
+   color: #e23e57
+ }
+hr{
+
+   border-style:none;
+   border-top-style: dotted;
+   border-color: grey;
+   border-width: 5px;
+   width: 5%
+   }
+
+
+   img:hover {
+     background-color: silver;
+   }
+
+  /**************************CLASS SELECTORS***********************************/
+  .Chocolate{
+    background-color: white;
+  }
+/*******************************ID SELECTORS**********************************/
+
+  #heading{
+    color: blue;
+  }
